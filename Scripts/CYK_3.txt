@@ -1,0 +1,3 @@
+S → a X b X
+X → a Y | b Y | #
+Y → X | c

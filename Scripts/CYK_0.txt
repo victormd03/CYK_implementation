@@ -1,0 +1,8 @@
+S → NP VP
+NP → D N | N N | time | flies | arrow 
+VP → V NP | V ADVP 
+ADVP → ADV NP 
+N → time | flies | arrow 
+D → an 
+ADV → like 
+V → flies | like 
