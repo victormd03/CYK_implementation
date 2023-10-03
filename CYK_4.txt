@@ -1,0 +1,4 @@
+S → A B C
+A → B | d
+B → B | C 
+C → c

@@ -1,0 +1,8 @@
+S → NP VP 1.0
+NP → DET N 0.6 | N 0.4
+VP → VT NP PP 0.7 | VI 0.3
+PP → with NP 1.0
+DET → the 0.6 | a 0.4
+N → cat 0.3 | fish 0.5 | knife 0.2 
+VT → eats 1.0
+VI → eats 1.0

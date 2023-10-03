@@ -1,0 +1,8 @@
+S → NP VP
+NP → DET N | N
+VP → VT NP PP | VI
+PP → with NP
+DET → the | a
+N → cat | fish | knife 
+VT → eats
+VI → eats
