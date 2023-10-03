@@ -1,9 +1,0 @@
-O → SN SV 1.0
-SN → D SN 0.4 | N ADJ 0.3 | nano 0.15 | coche 0.15 
-SV → V SN 0.8 | V SADV 0.2
-SADV → SN ADV 1.0
-N → nano 0.5 | coche 0.5
-D → el 0.5 | un 0.5
-ADJ → rapido 1.0
-V →  eligio 1.0
-ADV → rapido 1.0 
