@@ -1,5 +1,0 @@
-S → a | X A | A X | b
-A → R B 
-B → A X | b | a
-X → a
-R → X B
