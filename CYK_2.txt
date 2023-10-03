@@ -1,3 +1,0 @@
-S → A S B
-A → a A S | a | S | #
-B → S b S | A | b b 
