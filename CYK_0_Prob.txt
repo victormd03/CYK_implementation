@@ -1,8 +1,0 @@
-S → NP VP 1.0
-NP → D N 0.4 | N N 0.25 | time 0.14 | flies 0.07 | arrow 0.14
-VP → V NP 0.6 | V ADVP 0.4
-ADVP → ADV NP 1.0
-N → time 0.4 | flies 0.2 | arrow 0.4
-D → an 1.0
-ADV → like 1.0
-V → flies 0.5 | like 0.5
